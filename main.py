@@ -1,0 +1,1 @@
+print("thou art but a sussy baka")
